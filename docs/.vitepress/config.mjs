@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "GuYong's Site",
+  title: "GuYong",
   description: "Personal Blog",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -10,7 +10,10 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Courses', link: '/courses' }
     ],
-
+    footer: {
+      message: 'Email: iguyong at outlook.com',
+      copyright: 'Copyright © 2024-present Gu Yong'
+    },
     // sidebar: [
     //   {
     //     text: 'Courses',

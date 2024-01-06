@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "GuYong's Site"
-  text: "Personal Blog"
-  tagline: My great project tagline
+  text: "Stay Curious"
+  tagline: "Read, Write, Think, Practice."
   actions:
     - theme: brand
       text: Courses
