@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "麦庐辜老师"
+  name: "Gu Yong"
   # text: "Stay Curious"
   tagline: "Read, Write, Think, Practice."
   actions:
